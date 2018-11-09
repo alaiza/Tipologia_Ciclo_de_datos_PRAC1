@@ -1,0 +1,4 @@
+Place,Country,Weather,Weather_desc,Pressure,Humidity,Current_temp,Max_temp,Min_temp,Visibility,Wind_speed,Wind_degrees,Extract_EPOCH
+'San Lorenzo de El Escorial','ES','Rain','light rain',1013,93,10.210000000000036,11.0,8.0,3000,2.32,168.501,1541698400
+'San Lorenzo de El Escorial','ES','Rain','light rain',1013,93,10.210000000000036,11.0,8.0,3000,2.32,168.501,1541698410
+'San Lorenzo de El Escorial','ES','Rain','light rain',1013,93,10.210000000000036,11.0,8.0,3000,2.32,168.501,1541698420
