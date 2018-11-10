@@ -15,5 +15,5 @@ Jorge Alaiza San Cristóbal (único integrante) [jalaiza]
 
 ## Ficheros del código fuente
 
-- src/project.py : este .py se configura añadiendo una KEY y una ruta del fichero donde se quieren extraer datos (y modificando altitud y latitud en caso de cambiar la localizacion de la que se quieran extraer los datos)
+- src/project.py : este .py se configura añadiendo una KEY y una ruta del fichero donde se quieren extraer datos (y modificando altitud y latitud en caso de cambiar la localizacion de la que se quieran extraer los datos), adem'as tambien se puede configurar el tiempo entre extracciones del clima y el n'umero de veces que se puede extraer.
 
